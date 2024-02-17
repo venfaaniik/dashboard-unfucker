@@ -1,3 +1,5 @@
+Cool idea to push posts to the user's dash! Especially about a subject as important as that! But how about don't!
+
 # dashboard-unfucker
 Unfucks the twitterification of tumblr's dashboard by reverting it to the old layout as closely as possible while also offering control over other aspects of the UI.
 
